@@ -1,0 +1,45 @@
+C:\Users\belecina\Desktop\GROUPINGS\GROUPINGS\bin\Debug\GROUPINGS.exe.config
+C:\Users\belecina\Desktop\GROUPINGS\GROUPINGS\bin\Debug\GROUPINGS.exe
+C:\Users\belecina\Desktop\GROUPINGS\GROUPINGS\bin\Debug\GROUPINGS.pdb
+C:\Users\belecina\Desktop\GROUPINGS\GROUPINGS\obj\Debug\GROUPINGS.csprojResolveAssemblyReference.cache
+C:\Users\belecina\Desktop\GROUPINGS\GROUPINGS\obj\Debug\GROUPINGS.Form1.resources
+C:\Users\belecina\Desktop\GROUPINGS\GROUPINGS\obj\Debug\GROUPINGS.Properties.Resources.resources
+C:\Users\belecina\Desktop\GROUPINGS\GROUPINGS\obj\Debug\GROUPINGS.csproj.GenerateResource.Cache
+C:\Users\belecina\Desktop\GROUPINGS\GROUPINGS\obj\Debug\GROUPINGS.exe
+C:\Users\belecina\Desktop\GROUPINGS\GROUPINGS\obj\Debug\GROUPINGS.pdb
+C:\Users\belecina\Desktop\GROUPINGS\GROUPINGS\obj\Debug\GROUPINGS.Form2.resources
+C:\Users\belecina\Desktop\GROUPINGS\GROUPINGS\obj\Debug\GROUPINGS.Form3.resources
+C:\Users\belecina\Desktop\GROUPINGS\GROUPINGS\bin\Debug\BSCS1C.mdb
+C:\Users\iamce\source\repos\GROUPINGS\GROUPINGS\obj\Debug\GROUPINGS.csproj.AssemblyReference.cache
+C:\Users\iamce\source\repos\GROUPINGS\GROUPINGS\obj\Debug\GROUPINGS.csproj.SuggestedBindingRedirects.cache
+C:\Users\iamce\source\repos\GROUPINGS\GROUPINGS\obj\Debug\GROUPINGS.Form1.resources
+C:\Users\iamce\source\repos\GROUPINGS\GROUPINGS\obj\Debug\GROUPINGS.Form2.resources
+C:\Users\iamce\source\repos\GROUPINGS\GROUPINGS\obj\Debug\GROUPINGS.Form3.resources
+C:\Users\iamce\source\repos\GROUPINGS\GROUPINGS\obj\Debug\GROUPINGS.Properties.Resources.resources
+C:\Users\iamce\source\repos\GROUPINGS\GROUPINGS\obj\Debug\GROUPINGS.csproj.GenerateResource.cache
+C:\Users\iamce\source\repos\GROUPINGS\GROUPINGS\obj\Debug\GROUPINGS.csproj.CoreCompileInputs.cache
+C:\Users\iamce\source\repos\GROUPINGS\GROUPINGS\bin\Debug\BSCS1C.mdb
+C:\Users\iamce\source\repos\GROUPINGS\GROUPINGS\bin\Debug\gradingsheet.mdb
+C:\Users\iamce\source\repos\GROUPINGS\GROUPINGS\bin\Debug\GROUPINGS.exe.config
+C:\Users\iamce\source\repos\GROUPINGS\GROUPINGS\bin\Debug\GROUPINGS.exe
+C:\Users\iamce\source\repos\GROUPINGS\GROUPINGS\bin\Debug\GROUPINGS.pdb
+C:\Users\iamce\source\repos\GROUPINGS\GROUPINGS\obj\Debug\GROUPINGS.exe
+C:\Users\iamce\source\repos\GROUPINGS\GROUPINGS\obj\Debug\GROUPINGS.pdb
+C:\Users\iamce\source\repos\GROUPINGS\GROUPINGS\obj\Debug\GROUPINGS.Form4.resources
+C:\Users\iamce\source\repos\GROUPINGS\GROUPINGS\obj\Debug\GROUPINGS.Form5.resources
+E:\My files\small projects\St. Claire college project\GROUPINGS\bin\Debug\BSCS1C.mdb
+E:\My files\small projects\St. Claire college project\GROUPINGS\bin\Debug\gradingsheet.mdb
+E:\My files\small projects\St. Claire college project\GROUPINGS\bin\Debug\GROUPINGS.exe.config
+E:\My files\small projects\St. Claire college project\GROUPINGS\bin\Debug\GROUPINGS.exe
+E:\My files\small projects\St. Claire college project\GROUPINGS\bin\Debug\GROUPINGS.pdb
+E:\My files\small projects\St. Claire college project\GROUPINGS\obj\Debug\GROUPINGS.csproj.AssemblyReference.cache
+E:\My files\small projects\St. Claire college project\GROUPINGS\obj\Debug\GROUPINGS.Form1.resources
+E:\My files\small projects\St. Claire college project\GROUPINGS\obj\Debug\GROUPINGS.Form2.resources
+E:\My files\small projects\St. Claire college project\GROUPINGS\obj\Debug\GROUPINGS.Form3.resources
+E:\My files\small projects\St. Claire college project\GROUPINGS\obj\Debug\GROUPINGS.Form4.resources
+E:\My files\small projects\St. Claire college project\GROUPINGS\obj\Debug\GROUPINGS.Form5.resources
+E:\My files\small projects\St. Claire college project\GROUPINGS\obj\Debug\GROUPINGS.Properties.Resources.resources
+E:\My files\small projects\St. Claire college project\GROUPINGS\obj\Debug\GROUPINGS.csproj.GenerateResource.cache
+E:\My files\small projects\St. Claire college project\GROUPINGS\obj\Debug\GROUPINGS.csproj.CoreCompileInputs.cache
+E:\My files\small projects\St. Claire college project\GROUPINGS\obj\Debug\GROUPINGS.exe
+E:\My files\small projects\St. Claire college project\GROUPINGS\obj\Debug\GROUPINGS.pdb

@@ -1,0 +1,8 @@
+C:\Users\iamce\source\repos\GROUPINGS\GROUPINGS\obj\Release\GROUPINGS.csproj.AssemblyReference.cache
+C:\Users\iamce\source\repos\GROUPINGS\GROUPINGS\obj\Release\GROUPINGS.csproj.SuggestedBindingRedirects.cache
+C:\Users\iamce\source\repos\GROUPINGS\GROUPINGS\obj\Release\GROUPINGS.Form1.resources
+C:\Users\iamce\source\repos\GROUPINGS\GROUPINGS\obj\Release\GROUPINGS.Form2.resources
+C:\Users\iamce\source\repos\GROUPINGS\GROUPINGS\obj\Release\GROUPINGS.Form3.resources
+C:\Users\iamce\source\repos\GROUPINGS\GROUPINGS\obj\Release\GROUPINGS.Properties.Resources.resources
+C:\Users\iamce\source\repos\GROUPINGS\GROUPINGS\obj\Release\GROUPINGS.csproj.GenerateResource.cache
+C:\Users\iamce\source\repos\GROUPINGS\GROUPINGS\obj\Release\GROUPINGS.csproj.CoreCompileInputs.cache
